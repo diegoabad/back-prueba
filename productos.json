@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Teclado mecánico",
+    "precio": 50,
+    "stock": 20
+  },
+  {
+    "id": 2,
+    "nombre": "Mouse gamer",
+    "precio": 30,
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "nombre": "Monitor 24 pulgadas",
+    "precio": 150,
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "nombre": "Auriculares inalámbricos",
+    "precio": 80,
+    "stock": 25
+  },
+  {
+    "id": 5,
+    "nombre": "Silla ergonómica",
+    "precio": 200,
+    "stock": 5
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id_usuario": 1,
+    "nombre": "Martin",
+    "compras": [
+      {
+        "id": 1,
+        "producto": "Teclado mecánico",
+        "precio": 50,
+        "cantidad": 1,
+        "fecha": "2025-02-15"
+      },
+      {
+        "id": 2,
+        "producto": "Mouse gamer",
+        "precio": 30,
+        "cantidad": 1,
+        "fecha": "2025-02-15"
+      }
+    ]
+  },
+  {
+    "id_usuario": 2,
+    "nombre": "Diego",
+    "compras": [
+      {
+        "id": 3,
+        "producto": "Monitor 24 pulgadas",
+        "precio": 150,
+        "cantidad": 1,
+        "fecha": "2025-02-15"
+      },
+      {
+        "id": 4,
+        "producto": "Auriculares inalámbricos",
+        "precio": 80,
+        "cantidad": 2,
+        "fecha": "2025-02-15"
+      }
+    ]
+  }
+]
